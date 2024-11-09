@@ -1,4 +1,4 @@
-name: "42Crunch API Security Audt"
+name: "42Crunch API Security Audit"
 
 on:
   workflow_dispatch:
